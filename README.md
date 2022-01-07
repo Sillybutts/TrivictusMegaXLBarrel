@@ -34,6 +34,27 @@ Print time of around 3.5 hours @ 20% Gyroid, 2 wall, 70mm/s.
 
 Part volume: 40mm x 40mm x 121mm
 
+## Development Talk
+
+I figured I should mention the testing I did with MegaXL barrels, people might find it interesting.
+
+I did some testing with multiple different barrels, with two blasters. One being a singled Titan at 10 pumps, the other being my SuperSledge, which is basically the air volume of a Talon Claw.
+
+With the lower powered blaster, Armatus' Twisty barrel and my Twirly barrel both perform worse than a simple smooth barrel.
+With the Titan, my barrel and Armatus' barrel perform slightly better than a smooth barrel, especially at longer range.
+
+I was chatting with Thanh the night I did that testing, and he mentioned scaling up his Trivictus SCAR to MegaXL size as a barrel. I then made a barrel that is just that; a scaled up Trivictus with some rounded off corners and a barrel coupler on one end.
+
+Unfortunately, the extra friction of the Trivictus barrel was too much for the SuperSledge or my TalonClaw to fire. But with the Titan, it doesn't only fire, but it is very much more accurate than a smooth barrel, especially at range!
+
+TLDR: 
+
+Twirly and Twisty barrel worse than smooth barrel at low power, slightly better than smooth barrel at high power.
+
+New Trivictus MegaXL barrel way better than smooth barrel at high power, doesn't work at all at low power.
+
+Use smooth barrels for springers, use Trivictus barrel for air tank blasters like 4B's and Titans.
+
 ## Misc.
 
 STEP and F3D files have been provided, enjoy.
