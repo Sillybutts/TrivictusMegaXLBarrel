@@ -8,7 +8,7 @@ A barrel for MegaXL based on the Trivictus SCAR by Thanh. (Also some smooth barr
 
 ## Design Info
 
-This is the MegaXL Trivictus barrel, based off the Trivictus SCAR design by Thanh. It is a barrel that uses 3 spiral lands down the length of the barrel to spin MegaXL darts real good. 
+This is the MegaXL Trivictus barrel, based off the Trivictus SCAR design by Thanh (https://www.thingiverse.com/thing:4967719). It is a barrel that uses 3 spiral lands down the length of the barrel to spin MegaXL darts real good. 
 
 ### THIS BARREL SHOULD REALLY ONLY BE USED WITH HIGH POWERED AIR BLASTERS, LIKE 4Bs AND TITANS. IF YOU WANT A BARREL FOR A SPRINGER, USE THE SMOOTH BARRELS ALSO INCLUDED IN THIS LISTING.
 
