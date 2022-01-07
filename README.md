@@ -1,6 +1,11 @@
 # Trivictus MegaXL Barrel
 A barrel for MegaXL based on the Trivictus SCAR by Thanh. (Also some smooth barrels too for fun)
 
+<img src="GHimages/SideBySide.jpg" width="500">
+<img src="GHimages/Trivictus.jpg" width="500">
+<img src="GHimages/Smooth.jpg" width="500">
+<img src="GHimages/WithDart.jpg" width="500">
+
 ## Design Info
 
 This is the MegaXL Trivictus barrel, based off the Trivictus SCAR design by Thanh. It is a barrel that uses 3 spiral lands down the length of the barrel to spin MegaXL darts real good. 
@@ -39,4 +44,14 @@ STEP and F3D files have been provided, enjoy.
 
 ## Images
 
-<img src="GHimages/noneyetlol.png" width="500">
+<img src="GHimages/SideBySide.jpg" width="500">
+<img src="GHimages/Trivictus.jpg" width="500">
+<img src="GHimages/Smooth.jpg" width="500">
+<img src="GHimages/WithDart.jpg" width="500">
+<img src="GHimages/Sides.jpg" width="500">
+<img src="GHimages/Backs.jpg" width="500">
+<img src="GHimages/Width.jpg" width="500">
+<img src="GHimages/Length.jpg" width="500">
+<img src="GHimages/Trivictus%20MegaXL%20Barrel%20v10%201.png" width="500">
+<img src="GHimages/Trivictus%20MegaXL%20Barrel%20v10%202.png" width="500">
+<img src="GHimages/Trivictus%20MegaXL%20Barrel%20v10.png" width="500">
