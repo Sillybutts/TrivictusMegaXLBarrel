@@ -59,6 +59,8 @@ Use smooth barrels for springers, use Trivictus barrel for air tank blasters lik
 
 STEP and F3D files have been provided, enjoy.
 
+**If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
+
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). We will also need to discuss with Thanh. The smooth barrel versions are all CC0, go ham with those.**
 
 - **If you want to support what I do, go buy stuff at my RedBubble! https://www.redbubble.com/people/Sillybutts/shop**
